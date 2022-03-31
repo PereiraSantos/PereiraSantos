@@ -14,4 +14,4 @@
      
      ![TypeScript](https://img.shields.io/badge/TypeScript-02569B?style=for-the-badge&logo=typescript&logoColor=white)
      ![Angular](https://img.shields.io/badge/Angular-02569B?style=for-the-badge&logo=angular&logoColor=white)
-     ![Solid](https://img.shields.io/badge/Angular-02569B?style=for-the-badge&logo=angular&logoColor=white)
+     ![Solid](https://img.shields.io/badge/Solid-02569B?style=for-the-badge&logo=solid&logoColor=white)
