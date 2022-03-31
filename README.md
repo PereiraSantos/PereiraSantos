@@ -12,4 +12,4 @@
      
 - Conhecimento;
      
-     ![TypeScript](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=typescript&logoColor=white)
+     ![TypeScript](https://img.shields.io/badge/TypeScript-02569B?style=for-the-badge&logo=typescript&logoColor=white)
