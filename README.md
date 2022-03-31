@@ -10,9 +10,9 @@
      ![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
      ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
      
-- Conhecimento;
+/*- Conhecimento;
      
      ![TypeScript](https://img.shields.io/badge/TypeScript-02569B?style=for-the-badge&logo=typescript&logoColor=white)
      ![Angular](https://img.shields.io/badge/Angular-02569B?style=for-the-badge&logo=angular&logoColor=white)
      ![Solid](https://img.shields.io/badge/Solid-02569B?style=for-the-badge&logo=solid&logoColor=white)
-     ![Test](https://img.shields.io/badge/Test-02569B?style=for-the-badge&logo=test&logoColor=white)
+     ![Test](https://img.shields.io/badge/Test-02569B?style=for-the-badge&logo=test&logoColor=white)*/
