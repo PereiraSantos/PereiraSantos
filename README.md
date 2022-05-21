@@ -1,5 +1,6 @@
 # Olá, eu sou marciano!
 
+- Atualmente trabalho desenvolvendo em [dart flutter] e [typescript angular]
 - Atualmente estudando flutter.
 - Redes sociais:
 
