@@ -12,5 +12,5 @@
      ![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B)
      ![Flutter](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typeScript&logoColor=02569B)
      ![Flutter](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=B00020)
-     ![Flutter](https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=angular&logoColor=B00020)
+     ![Flutter](https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=bash&logoColor=B00020)
    
