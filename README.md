@@ -1,7 +1,7 @@
 # Olá, eu sou marciano!
 
-- Atualmente trabalho desenvolvendo em [dart flutter] e [typescript angular]
-- Atualmente estudando flutter e typescript.
+- Atualmente trabalho desenvolvendo em `dart - flutter` e `typescript - angular`
+- Estudando flutter, typescript e bash.
 - Redes sociais:
 
      [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marciano-pereira-003a6619a?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
@@ -14,4 +14,5 @@
      ![Flutter](https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=B00020)
   
 - Script 
-     Bash
+     
+     `Bash`
