@@ -1,7 +1,7 @@
 # Olá, eu sou marciano!
 
 - Atualmente trabalho desenvolvendo em `flutter` e `angular`.
-- Estudando `flutter`, `kotlin`.
+- Conhecimento `flutter`, `kotlin`,`typescript`.
 - Redes sociais:
 
      [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marciano-pereira-003a6619a?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
